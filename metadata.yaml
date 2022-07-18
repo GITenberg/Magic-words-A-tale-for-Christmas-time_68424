@@ -5,12 +5,17 @@ contributor:
     agent_name: Wehnert, E. H.
     gutenberg_agent_id: '54773'
     url: http://www.gutenberg.org/2009/agents/54773
+covers:
+- cover_type: archival
+  image_path: 68424-h/images/cover.jpg
 creator:
   author:
     agent_name: Maceroni, Emilie
     gutenberg_agent_id: '54772'
     url: http://www.gutenberg.org/2009/agents/54772
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68424#Magic-words-A-tale-for-Christmas-time
 gutenberg_issued: '2022-06-29'
 identifiers:
   gutenberg: '68424'
